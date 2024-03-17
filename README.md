@@ -94,12 +94,14 @@ ATmega32U4を搭載したPro Micro互換基板であれば基本的に使用可�
   
 ### 動作確認
 ![Firmware Check](img/VIA1.jpg)  
-現在のところVIAやReMapなどにはマージされていません。Pro Micro Web Updaterを用いてPro Microにファームウェアを書き込んでください。  
+現在のところVIAやReMapなどにはマージされていません。Pro Micro Web Updaterを用いてPro Microにファームウェア(childhood_s_end_via-****.hex)を書き込んでください。  
 一旦書き込んだらReMapおよびVIAによる編集が可能になります。  
 <details><summary>うまくいかない場合</summary>
   通信用ケーブルで接続していること、ChromeでUpdaterを開いていることを確認してください。  
   それでも認識しなかったり、書き込めない場合は初期不良かもしれません。
-</details>
+</details>  
+VIAのSave + Load > Load Saved Layout からchildhood_s_end_via-****.jsonを読み込みます。
+これでファームウェアとキーマップの両方がロードされた状態になりました。
 
 ## はんだ前の作業
 ### 時間の確保
@@ -154,7 +156,9 @@ Pro Micro側をはんだづけし、抜き差しできる状態にします。
 ## 筐体に収める前の確認
 ![Matrix Check](img/VIA2.jpg)  
 スイッチを全て取り付けたらReMap経由でスイッチをテストします。  
-.jsonファイルを読み込み、Test Matrix Modeでキーの認識を見ましょう。
+キーマップとしてinfo-****.jsonを読み込み、Test Matrix Modeでキーの認識を見ましょう。
+<details><summary>VIAの場合</summary>SettingsからShow Design Tabをオンにします。Design > Load Draft Definition からinfo-****.jsonをロードして使用します。Key Tester > Test Matrix でTest Matrix Modeに移動できます。</details>  
+<details><summary>ReMapの場合</summary>キーボードを接続した時点で.jsonファイルを要求されます。info-****.jsonをロードして使用してください。  右下の三点メニューからTest Matrix Modeを起動できます。</details>
 認識がおかしいキーがあった場合はスイッチの足が曲がっていないか、スイッチソケットの足ははんだづけされているか、ダイオードの向きは合っているかなどを確認します。  
 
 すべて点灯したら、このキーボードは既に使える状態になっています。
