@@ -77,7 +77,8 @@ Half-Alice style keyboard
 ## キーキャップの選定
 以下の条件を満たすJIS配列用のセットであればほぼ全てのキーをカバーできます。  
  - 65%以上のセット
- - Stepped Caps Lock (1.5U-1.75U)  
+ - Stepped Caps Lock (1.5U-1.75U)
+     
 最下段の構成は以下の通りです。
  - 1.5U Ctrl
  - 1.25U Win
