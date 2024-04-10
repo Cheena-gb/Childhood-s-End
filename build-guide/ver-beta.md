@@ -105,11 +105,11 @@ ATmega32U4を搭載したPro Micro互換基板であれば基本的に使用可�
 
 ## ファイルの確認  
 全て本リポジトリ内の/Firm/ver-beta/以下で入手できます。
-### [childhood_s_end_via-BETA.hex](../Firm/ver-beta/childhood_s_end_via-beta.hex)
+### [childhood_s_end_via-beta.hex](../Firm/ver-beta/childhood_s_end_via-beta.hex)
 キーボードを制御するためのファームウェアです。
-### [childhood_s_end_via-BETA.json](../Firm/ver-beta/childhood_s_end_via-beta.json)
+### [childhood_s_end_via-beta.json](../Firm/ver-beta/childhood_s_end_via-beta.json)
 VIA用の初期キーマップ定義用ファイルです。ファームウェアだけではキーマップが崩れてしまうため、VIA経由で定義し直す用です。
-### [info-BETA.json](../Firm/ver-beta/info-beta.json)
+### [info-beta.json](../Firm/ver-beta/info-beta.json)
 キーマトリクス定義用ファイルです。現状ではVIAやReMapでキーマップを書き換える度に使用することになります。
 
 
