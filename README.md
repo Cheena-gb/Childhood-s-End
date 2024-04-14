@@ -16,4 +16,4 @@ Half-Alice style keyboard
 
 ## ビルドガイド
 [Ver.BETA](build-guide/ver-beta.md)  
-[Ver.1.0](build-guide/ver-1-0.md)
+[Ver.1.0](build-guide/ver-1.0.md)
