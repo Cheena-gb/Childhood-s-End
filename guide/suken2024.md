@@ -7,7 +7,7 @@
 
 # スペック一覧・ハードウェア解説
 JIS型72鍵65%キーボード    
-6KRO  
+6キーロールオーバー  
 ホットスワップ対応  
 MicroUSB接続  
 Mousekey/Extra Key有効  
@@ -15,12 +15,12 @@ Mousekey/Extra Key有効
 ## ハードウェア構成
 スイッチパネル、PCB、バックパネルをスペーサーとねじで固定した構造。  
 使用できるスイッチはMX互換フットプリントでスイッチプレートとPCB間が3.5mmのもののみ。  
-「Outemu Low Profile」は使用不可。  
+例として、「Outemu Low Profile」は使用不可。  
 
 ## ファームウェア
 書き込み済み。  
 再書き込みが必要になった際はFirm/childhood_s_end_via.hexを使用し、通常のPro Microと同様の方式で書き込む。  
-裏の四角い穴に棒などを入れてスイッチを素早く2回押してください。
+裏の四角い穴に棒などを入れてスイッチを素早く2回押すとリセットが掛かる。
 
 ## キーマップ
 初期キーマップはJIS配列と同様。  
@@ -28,13 +28,15 @@ Mousekey/Extra Key有効
 
 ### ReMap(推奨)
 remap-keys.appを利用して書き換える。  
-アクセスしたら、Customize Your Keyboard>Authorizeを行って接続したらinfo-beta.jsonを読み込むと編集画面に移行できる。
+アクセスしたら、Customize Your Keyboard>Authorizeを行って接続したらinfo-beta.jsonを読み込むと編集画面に移行できる。  
+右上の言語欄をJapaneseに切り替えると日本語配列用のキーコードを使用できる。
 
 ### VIA
 usevia.appを利用して書き換える。  
 アクセスしたらAuthorizeを行い、接続したら上メニュー左の歯車からShow Design Tabをオンに。  
 出てきた上メニューのDesign Tabを開き、Load Draft Definisionからinfo-beta.jsonを読み込む。  
-上メニューの一番左で書き換えを、上メニューの左から二番目でキースイッチの導通テストを行える。導通テスト時はUse Matrixをオンにすること。
+上メニューの一番左で書き換えを、上メニューの左から二番目でキースイッチの導通テストを行える。導通テスト時はUse Matrixをオンにすること。  
+キャッシュに.jsonが保持される形式になっているほか、キーコードの反映はリアルタイムで行われる。
 
 ## キーキャップ
 以下の条件を満たすJIS配列用のセットであれば主要なキーのほとんどをカバーできます。  
