@@ -27,7 +27,7 @@
  - タクトスイッチ  
    1個
  - MXキーソケット  
-   72個 Kailh製のものを想定しています。
+   73個 Kailh製のものを想定しています。
  - ダイオード  
    72個 1N4148 表面実装型
  - MX用 2Uスタビライザー  
@@ -149,9 +149,7 @@ RESETボタンを押しながらPCとRP2040-Zeroを接続し、ストレージ�
 ## スイッチの確認
 ![部品が生きているかを確認します](img/VIA2.jpg)  
 スイッチを全て取り付けたらスイッチをテストします。  
-ReMapまたはVIAでキーの認識を見ましょう。
-<details><summary>VIAの場合</summary>SettingsからShow Design Tabをオンにします。Design > Load Draft Definition からinfo-****.jsonをロードして使用します。Key Tester > Test Matrix でTest Matrix Modeに移動できます。</details>  
-<details><summary>ReMapの場合</summary>キーボードを接続した時点で.jsonファイルを要求されます。info-****.jsonをロードして使用してください。  右下の三点メニューからTest Matrix Modeを起動できます。</details>
+Vialでキーの認識を見ましょう。
 
 すべてのキーが間違いなく反応したら、このキーボードは入力機器として使用できる状態になっています。
 
