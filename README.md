@@ -15,5 +15,4 @@ Half-Alice style keyboard
 自作キーボードの世界では数少ない片側のみの傾斜配置、JIS配列を組み合わせた特徴的なキーボードをお楽しみください。
 
 ## ビルドガイド
-[Ver.BETA](build-guide/ver-beta.md)  
 [Ver.1.0](build-guide/ver-1.0.md)
