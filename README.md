@@ -16,4 +16,4 @@ Half-Alice style keyboard
 
 ## ビルドガイド
 [Ver.1.0](build-guide/ver-keyflea2024.md)  
-[Ver.1.1](build-guide/ver-1.0.md)
+[量産版ビルドガイド](build-guide/ver-stable.md)
