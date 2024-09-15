@@ -58,7 +58,9 @@
  - M2 ソケットレンチ
 ### 必要ファイルのダウンロード
  - childhood_s_end_vial-****.uf2
+   ※トラブルがなければ使用しません
  - [Vial](https://get.vial.today/)
+   初期キーマップからの書き換えに使用します。
   
 ## キーキャップの選定
 以下の条件を満たすJIS配列用のセットであれば主要なキーをカバーできます。  
@@ -137,7 +139,7 @@ LEDを実装している場合、MCUに通電すれば赤色に発光するは�
 ### トラブルシューティング(1)
 <details><summary>LEDがすべて光らない</summary>D73、L1、5V0、GND、GP29は問題なくはんだ付けできていますか？ケーブルは断線していませんか？</details>  
 <details><summary>LEDが途中から光らない</summary>光らないLED自体のはんだづけと、光らないLEDの直前のLEDのはんだを確認してください。</details>  
-<details><summary>それ以外の問題</summary>製作者に連絡してください。</details>
+<details><summary>それ以外の問題</summary>製作者に連絡してください。Twitter:[at]on_8va_bassa</details>
   
 ### ダイオードのはんだづけ
 1N4148シリーズの使用を想定しています。**配線最適化のため、向きを統一していません**  
@@ -171,7 +173,7 @@ Matrix Testerを使用し、以下の方法のいずれかで基板の導通を�
 ### トラブルシューティング(2)
 <details><summary>キーが反応しない・別のキーが反応する(1個単位)</summary>ダイオードの方向、ソケットのはんだを確認してください。スイッチ自体の導通も見ましょう。</details>  
 <details><summary>行・列単位でキーが反応しない</summary>RP2040のはんだ不良を疑います。ピンとパッドが問題なく接続されていること、周辺のパッドと短絡していないことを確認してください。</details>  
-<details><summary>それ以外の問題</summary>製作者に連絡してください。</details>
+<details><summary>それ以外の問題</summary>製作者に連絡してください。Twitter:[at]on_8va_bassa</details>
 
 ### 組み立て  
 まずスイッチプレートの表からネジを刺し、裏から3.5mmスペーサーで固定していきます。  
