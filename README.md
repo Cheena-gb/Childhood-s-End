@@ -17,3 +17,11 @@ Half-Alice style keyboard
 ## ビルドガイド
 [Ver.1.0修正品](build-guide/ver-keyflea2024.md)  
 [量産版ビルドガイド](build-guide/ver-stable.md)
+
+## バージョン情報
+- Ver.BETA
+  一般販売は行っておりません。
+- Ver.1.0  
+  2024年9月15日「キーボードフリーマーケット トーキョー」にて販売しています。
+- Ver.1.1  
+  ネジの位置やスペーサー形状など、一部構造を改善しています。Ver.1.0との互換性はありません。
