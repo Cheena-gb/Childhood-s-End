@@ -19,7 +19,7 @@ Half-Alice style keyboard
 [量産版ビルドガイド](build-guide/ver-stable.md)
 
 ## バージョン情報
-- Ver.BETA
+- Ver.BETA  
   一般販売は行っておりません。
 - Ver.1.0  
   2024年9月15日「キーボードフリーマーケット トーキョー」にて販売しています。
