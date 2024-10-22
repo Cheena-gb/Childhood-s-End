@@ -57,15 +57,15 @@
  - マスキングテープ
  - M2 ソケットレンチ
 ### 必要ファイルのダウンロード
- - childhood_s_end_vial-****.uf2
+ - childhood_s_end_vial-****.uf2  
    ※トラブルがなければ使用しません
- - [Vial](https://get.vial.today/)
+ - [Vial](https://get.vial.today/)  
    初期キーマップからの書き換えに使用します。
   
 ## キーキャップの選定
 以下の条件を満たすJIS配列用のセットであれば主要なキーをカバーできます。  
  - 65%以上のセット  
- - JIS配列対応
+ - JIS配列対応  
 100%のキットであればほぼ完璧にカバー可能ですが、最下段のキー幅によっては個別購入が必要になります。  
 なお、現行品では1.5uおよびStepped形状のCaps Lockは使用不可能です。1.75uのものを使用してください。
 
@@ -138,7 +138,7 @@ LEDを実装している場合、MCUに通電すれば赤色に発光するは�
 
 ### トラブルシューティング(1)
 <details><summary>LEDがすべて光らない</summary>D73、L1、5V0、GND、GP29は問題なくはんだ付けできていますか？ケーブルは断線していませんか？</details>  
-<details><summary>LEDが途中から光らない</summary>光らないLED自体のはんだづけと、光らないLEDの直前のLEDのはんだを確認してください。</details>  
+<details><summary>LEDが途中から光らない・ちらつく</summary>光らないLED自体のはんだづけと、光らないLEDの直前のLEDのはんだを確認してください。</details>  
 <details><summary>それ以外の問題</summary>製作者に連絡してください。Twitter:[at]on_8va_bassa</details>
   
 ### ダイオードのはんだづけ
