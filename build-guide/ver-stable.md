@@ -259,4 +259,5 @@ LEDは下側にあるため、Double Shot Backlit系キーキャップは落ち�
 
 ## ファームウェアの改造
 [Vial用ファームウェアはここにあります。](https://github.com/Cheena-gb/vial-qmk/tree/vial/keyboards/cheena/childhood_s_end_v1)  
-改造ファームの不具合、それに起因する故障などについてはサポートできませんのでご了承ください。
+改造ファームの不具合、それに起因する故障などについてはサポートできませんのでご了承ください。  
+また、DefaultとVIA用のキーマップには作業を行っていないため動きません。
