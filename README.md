@@ -27,3 +27,8 @@ Childhood's End
   2024年9月15日「キーボードフリーマーケット トーキョー」にて販売しています。
 - 量産版(Ver.2.0以降)  
   ネジの位置やスペーサー形状など、一部構造を改善しています。Ver.1.0との互換性はありません。
+
+## Annotation
+本キーボードは以下の作品からの引用を含みます。  
+Arthur Charles Clarke著、Orion Publishing Group出版 「Childhood's End - SF Masterworks」  
+Arthur Charles Clarke著、福島正実訳、早川書房出版 「幼年期の終り」
