@@ -30,5 +30,5 @@ Childhood's End
 
 ## Annotation
 以下の作品からの引用を含みます。  
-Arthur Charles Clarke著、Orion Publishing Group出版 「Childhood's End - SF Masterworks」
+Arthur Charles Clarke著、Orion Publishing Group出版 「Childhood's End - SF Masterworks」  
 Arthur Charles Clarke著、福島正実訳、早川書房出版 「幼年期の終り」
