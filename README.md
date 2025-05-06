@@ -17,7 +17,8 @@ Childhood's End
 
 ## ビルドガイド
 [Ver.1.0修正品](build-guide/ver-keyflea2024.md)  
-[(V2以降)量産版ビルドガイド](build-guide/ver-stable.md)
+[Ver.2.0ビルドガイド](build-guide/ver-2.md)  
+[Ver.3.0ビルドガイド](build-guide/ver-3.md)
 
 ## 組み立て済み販売用ガイド
 [(V2以降)量産版](guide/ver-stable.md)
@@ -28,9 +29,12 @@ Childhood's End
   一般販売は行っておりません。
 - Ver.1.0  
   2024年9月15日「キーボードフリーマーケット トーキョー」にて販売しています。
-- 量産版(Ver.2.0以降)  
+- Ver.2.0
   ネジの位置やスペーサー形状など、一部構造を改善しています。Ver.1.0との互換性はありません。
-
+- Ver.3.0  
+  左上クラスターの4キーをキースイッチ・ロータリーエンコーダー両対応に変更しました。  
+  また、ISOエンターのソケットを縦横選択可能にしました。
+  スイッチプレート、バックパネルはVer.2.0と同等です。
 ## Annotation
 以下の作品からの引用を含みます。  
 Arthur Charles Clarke著、Orion Publishing Group出版 「Childhood's End - SF Masterworks」  
