@@ -18,7 +18,6 @@ Childhood's End
 ## ビルドガイド
 [Ver.1.0修正品](build-guide/ver-keyflea2024.md)  
 [Ver.2.0ビルドガイド](build-guide/ver-2.md)  
-[Ver.3.0ビルドガイド](build-guide/ver-3.md)
 
 ## 組み立て済み販売用ガイド
 [(V2以降)量産版](guide/ver-stable.md)
