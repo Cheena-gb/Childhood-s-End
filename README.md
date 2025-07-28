@@ -16,8 +16,8 @@ Childhood's End
 自作キーボードの世界では数少ない片側のみの傾斜配置、JIS配列を組み合わせた特徴的なキーボードをお楽しみください。
 
 ## ビルドガイド
-[Ver.1.0修正品](build-guide/ver-keyflea2024.md)  
-[Ver.2.0ビルドガイド](build-guide/ver-2.md)  
+[Ver.1.0修正品 ビルドガイド](build-guide/ver-keyflea2024.md)  
+[Ver.2.X ビルドガイド](build-guide/ver-2.md)  
 
 ## 組み立て済み販売用ガイド
 [(V2以降)量産版](guide/ver-stable.md)
