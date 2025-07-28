@@ -23,7 +23,6 @@ Childhood's End
 [(V2以降)量産版](guide/ver-stable.md)
 
 ## バージョン情報
-
 - Ver.BETA  
   一般販売は行っておりません。
 - Ver.1.0  
@@ -32,6 +31,9 @@ Childhood's End
   ネジの位置やスペーサー形状など、一部構造を改善しています。Ver.1.0との互換性はありません。
 - Ver.3.0  
   現在設計中
+## 主要な頒布歴
+- キーボードフリーマーケット トーキョー 2024
+- キーボードマーケット　トーキョー　2025
 ## Annotation
 以下の作品からの引用を含みます。  
 Arthur Charles Clarke著、Orion Publishing Group出版 「Childhood's End - SF Masterworks」  
