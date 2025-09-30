@@ -34,6 +34,8 @@ Childhood's End
 ## 主要な頒布歴
 - キーボードフリーマーケット トーキョー 2024
 - キーボードマーケット　トーキョー　2025
+- キーボードフリーマーケット トーキョー 2025
+- オンライン頒布
 ## Annotation
 以下の作品からの引用を含みます。  
 Arthur Charles Clarke著、Orion Publishing Group出版 「Childhood's End - SF Masterworks」  
