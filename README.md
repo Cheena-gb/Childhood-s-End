@@ -20,7 +20,9 @@ Childhood's End
 [Ver.2.X ビルドガイド](build-guide/ver-2.md)  
 
 ## 組み立て済み販売用ガイド
-[(V2以降)量産版](guide/ver-stable.md)
+### V2以降  
+[組み立て済みガイド](guide/ver-stable.md)  
+[基板実装済みガイド](guide/ver-stable-PCBA.md)
 
 ## バージョン情報
 - Ver.BETA  
